@@ -8,9 +8,9 @@
 
 * 元件系統
     1. Component基本元素
-    <img src="./Images/Vue_Component.png" height=200/>
+        <img src="./Images/Vue_Component.png" height=100/>
     2. Component複用、堆疊
-    <img src="./Images/Vue_ComponentTree.png" height=200/>
+        <img src="./Images/Vue_ComponentTree.png" height=200/>
 
 * Vue3 新增特性
     * Fragment 不再限制元件必須只能是單一根節點
