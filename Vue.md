@@ -19,3 +19,5 @@
     * 新增 "Teleport"、"Suspense" 等功能型元件，擴充了更多可能性
     * setup、ref 等語法糖，開發時的體驗更好
     * Vue.js 開源社群也為周邊生態圈不停地努力。瀏覽器裡的 Vue 開發/除錯工具 Vue-Devtools、VSCode 的知名套件 vetur、vite
+
+* 指令
