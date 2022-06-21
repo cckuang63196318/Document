@@ -2,7 +2,11 @@
 
 ## 概念說明
 * slot vs props, slot-scope vs emit
-* :is - <component :is="view"></component>
+* :is - 
+'''
+* <component :is="view"></component>
+'''
+* keep-alive
 
 
 ***
