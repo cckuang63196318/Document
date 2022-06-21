@@ -13,19 +13,8 @@
 </keep-alive>
 ```
 * component lify cycle vs watch
-* 
 
-
-***
-* 指令式渲染 vs. 宣告式渲染 (MVVM Model)
-<img src="./Images/Vue_ViewModel.png" height=200/>
-
-* 元件系統
-    1. Component基本元素
-        <img src="./Images/Vue_Component.png" height=100/>
-    2. Component複用、堆疊
-        <img src="./Images/Vue_ComponentTree.png" height=200/>
-
+###
 * Vue3 新增特性
     * Fragment 不再限制元件必須只能是單一根節點
     * 響應式偵測由 Object.defineProperty 改為 Proxy API，解決了過去 Vue 2.x 在物件、陣列更新偵測的問題
