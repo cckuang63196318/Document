@@ -2,11 +2,16 @@
 
 ## 概念說明
 * slot vs props, slot-scope vs emit
-* :is - 
+* :is - 代入的值來動態決定載入哪一個元件
 ```
 <component :is="view"></component>
 ```
-* keep-alive
+* keep-alive - 切換時不會重新 render 元件，而保留了使用者輸入的資料
+```
+<keep-alive>
+    <component :is="view"></component>
+</keep-alive>
+```
 
 
 ***
