@@ -12,6 +12,8 @@
     <component :is="view"></component>
 </keep-alive>
 ```
+* component lify cycle vs watch
+* 
 
 
 ***
