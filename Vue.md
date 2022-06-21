@@ -3,9 +3,9 @@
 ## 概念說明
 * slot vs props, slot-scope vs emit
 * :is - 
-'''
-* <component :is="view"></component>
-'''
+```
+<component :is="view"></component>
+```
 * keep-alive
 
 
