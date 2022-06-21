@@ -1,8 +1,7 @@
 # Vue
-***
 
 ## 概念說明
-
+* slot vs props, slot-scope vs emit
 
 
 ***
