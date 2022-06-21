@@ -5,4 +5,4 @@
 
 ## 後端Web API開發
 * DDD
-* .Net6
+* Google FireBase
