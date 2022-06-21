@@ -2,7 +2,7 @@
 
 ## 概念說明
 * slot vs props, slot-scope vs emit
-* :is - 代入的值來動態決定載入哪一個元件
+* :is - 依帶入的值來動態決定載入哪一個元件
 ```
 <component :is="view"></component>
 ```
